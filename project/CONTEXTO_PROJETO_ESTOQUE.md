@@ -1,4 +1,3 @@
-[CONTEXTO_PROJETO_ESTOQUE.md](https://github.com/user-attachments/files/32219773/CONTEXTO_PROJETO_ESTOQUE.md)
 # Sistema de Gerenciamento de Estoque — Contexto e Diretrizes do Projeto
 
 ## 1. Propósito do projeto
